@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalty and noncomformity, or, A loyal nonconformist decently interr'd being an elegy on the much lamented death of Mris. G.E. lately deceased.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49372</idno><idno type="EEBO-CITATION">12986416</idno>
+  <idno type="VID">96199</idno>
+  <idno type="EEBO-PROQUEST">2240850648</idno>
+  
+            <idno type="STC">Wing L3379A</idno>
+            <idno type="STC">ESTC R5470</idno>
+            <idno type="OCLC">12986416</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalty and noncomformity, or, A loyal nonconformist decently interr'd being an elegy on the much lamented death of Mris. G.E. lately deceased.</title>
+               </titleStmt>
+               <extent>22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year of Our Saviours incarnation, 1669, and of His Majesty's happy restauration, the 9th.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">G. E., --  Mris., d. 1669?</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96199:1"/>
+            <p>LOYALTY AND Nonconformity; OR, A <hi>Loyal Nonconformist</hi> decently Interr'd. BEING An ELEGY ON The much lamented Death of M<seg rend="sup">ris.</seg>
+               <hi>G. E.</hi> Lately Deceased.</p>
+            <q>Per varios casus, Per tot discrimina rerum Tendimus—</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year of our Saviours Incarnation, 1669, and of his Majesty's happy Restau<g ref="char:EOLhyphen"/>ration, the 9th.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96199:2"/>
+            <pb n="3" facs="tcp:96199:2"/>
+            <head>The Author's Apologetick and Re<g ref="char:EOLhyphen"/>quest to the Candid Reader.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>EADER, here's no <hi>Lampoon</hi> for Court,</l>
+               <l>Nor <hi>Classick Gout</hi> to shew thee sport;</l>
+               <l>Nor yet <hi>Advice</hi> in lofty Rants,</l>
+               <l>For <hi>this</hi> the Author sayes he wants:</l>
+               <l>Or else he had not <hi>madly</hi> run,</l>
+               <l>Thus without leave of's LITTLETON,</l>
+               <l>T' increase the <hi>plague</hi> of <hi>Vermine</hi> Rhimes,</l>
+               <l>Bred by the <hi>heat</hi> o'th' <hi>Comick</hi> Times:</l>
+               <l>For naught can Fancy <hi>over-awe,</hi>
+               </l>
+               <l>As do the <hi>loud Reports</hi> of Law.</l>
+               <l>'Twas then pure <hi>duty</hi> to her Herse</l>
+               <l>
+                  <hi>Transform'd</hi> his sighs and tears to Verse.</l>
+               <l>If that he chance to <hi>leave</hi> his Text,</l>
+               <l>And at's <hi>Return</hi> forget what's next;</l>
+               <pb n="4" facs="tcp:96199:3"/>
+               <l>The <hi>worst</hi> that can be understood,</l>
+               <l>Is, th' <hi>Poet's</hi> bad, and <hi>Sorrow</hi> good.</l>
+               <l>Our loss ('tis true) here forms a Sea</l>
+               <l>(Not of
+<note n="(a)" place="margin">A late se<g ref="char:EOLhyphen"/>ditious Pam<g ref="char:EOLhyphen"/>phlet so enti<g ref="char:EOLhyphen"/>tuled.</note>
+                  <hi>Anglorum Lachrimae</hi>)</l>
+               <l>Which seems t' <hi>usurp</hi> its <hi>bounds,</hi> and thence</l>
+               <l>In <hi>frolick</hi> of Impertinence,</l>
+               <l>
+                  <hi>Remoter</hi> subjects <hi>seize,</hi> with streams</l>
+               <l>
+                  <hi>Design'd</hi> as <hi>deluge</hi> for all theams.</l>
+               <l>But know Grief <hi>staggers,</hi> and grows sick,</l>
+               <l>Ev'n at the <hi>sight</hi> of <hi>Rhetorick;</hi>
+               </l>
+               <l>Nay, <hi>Quarrels fashionable</hi> Arts,</l>
+               <l>Whose <hi>Rules</hi> would <hi>sprucifie</hi> its parts:</l>
+               <l>Though it now <hi>swell,</hi> its private treads</l>
+               <l>Through <hi>Caverns,</hi> may <hi>enrich</hi> the Meads:</l>
+               <l>And this <hi>Extravagance</hi> alas!</l>
+               <l>Prove <hi>motion</hi> but to <hi>purge</hi> its mass.</l>
+               <l>Nor are <hi>Excursions</hi> strange, since we</l>
+               <l>
+                  <hi>Excrementitious</hi> humours see,</l>
+               <l>From <hi>high</hi> Divines <hi>above</hi> our reach,</l>
+               <l>
+                  <hi>Break forth</hi> into their <hi>learned</hi> preach:</l>
+               <l>
+                  <hi>Hair</hi> to <hi>adorn</hi> themselves, or heat</l>
+               <l>Makes <hi>nails</hi> for <hi>Fan.</hi> but seldom <hi>sweat.</hi>
+               </l>
+               <l>Nay <hi>Death</hi> it self, to this sad work,</l>
+               <l>Has rambled from his <hi>Candia-Turk;</hi>
+               </l>
+               <l>And left that more <hi>Christian</hi> Employ,</l>
+               <l>To try conclusions on our joy;</l>
+               <pb n="5" facs="tcp:96199:3"/>
+               <l>Yea, all may seem <hi>(Reader)</hi> i'th sense</l>
+               <l>Of thine <hi>affairs,</hi> Impertinence;</l>
+               <l>And that thy <hi>Fancy</hi> perhaps be</l>
+               <l>As good <hi>diversion</hi> for me.</l>
+               <l>Dost think this Poem <hi>exactly</hi> fine?</l>
+               <l>Thou needst <hi>forgiveness,</hi> and hast mine:</l>
+               <l>Or, dost thou deem it worthy <hi>blame?</hi>
+               </l>
+               <l>In <hi>justice</hi> then give me the same.</l>
+               <l>And that thy <hi>Candor</hi> have relief,</l>
+               <l>Impute faults to <hi>unruly</hi> Grief;</l>
+               <l>As to officious <hi>frisking</hi> Zeal,</l>
+               <l>Men do those of the <hi>Publick-weal.</hi>
+               </l>
+               <l>Treat this thy <hi>Neighbour</hi> as thine own;</l>
+               <l>
+                  <hi>Unsoul</hi> it not with <hi>baleful</hi> frown:</l>
+               <l>Nor in disdain <hi>doom</hi> it to dye,</l>
+               <l>Because not <hi>strong-limb'd</hi> Poetry.</l>
+               <l>Thou hast not <hi>rage</hi> for such a part,</l>
+               <l>No, <hi>Reader,</hi> no, who ere thou art,</l>
+               <l>If not o'th <hi>Gang</hi> who run down Schism,</l>
+               <l>Yet <hi>pitch</hi> us into <hi>Quakerism;</hi>
+               </l>
+               <l>Those RATIONALS <hi>(forsooth)</hi> we see</l>
+               <l>
+                  <hi>New modelling</hi> Divinity;</l>
+               <l>Who resolve all to <hi>Ethick</hi> Light,</l>
+               <l>And <hi>Canonize</hi> the STAGARITE:</l>
+               <l>Or of them who are <hi>past</hi> all sence,</l>
+               <l>INQUISITORS for <hi>Conscience;</hi>
+               </l>
+               <pb n="6" facs="tcp:96199:4"/>
+               <l>Those <hi>Fondlings</hi> of themselves and Wine,</l>
+               <l>Of the <hi>Sic Volo</hi> Discipline;</l>
+               <l>That <hi>reach</hi> our Souls, if we neglect</l>
+               <l>To run i'th <hi>Liv'ry</hi> of their Sect.</l>
+               <l>But if of these thou'rt <hi>shrewd</hi> and curst,</l>
+               <l>I <hi>hope</hi> no good, nor <hi>fear</hi> thy worst.</l>
+               <l>
+                  <hi>Bend</hi> then thy <hi>brow,</hi> and I'le my <hi>knee,</hi>
+               </l>
+               <l>That it may please the <hi>Deitie,</hi>
+               </l>
+               <l>Our KING, our LORDS, and COMMONS may</l>
+               <l>
+                  <hi>Guide</hi> in this <hi>Clime</hi> our Night and Day:</l>
+               <l>As the <hi>Sun, Moon,</hi> and <hi>Starry throng</hi>
+               </l>
+               <l>Do th' <hi>Universe,</hi> and full so long;</l>
+               <l>To <hi>snuff</hi> our <hi>Church-Lights,</hi> and take care,</l>
+               <l>
+                  <hi>Dark-Lanthorns</hi> no more ENGLAND scare.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="7" facs="tcp:96199:4"/>
+            <head>The Elegy.</head>
+            <lg>
+               <l>A <hi>Beacon'd</hi> Heaven, or a <hi>Trembling</hi> Earth,</l>
+               <l>
+                  <hi>Sinks</hi> down our lookes to Plagues, to War, and Dearth;</l>
+               <l>
+                  <hi>Neptune</hi> can't <hi>sport</hi> his Waves, to Tides, or roar;</l>
+               <l>But 'tis to <hi>Land</hi> some Prince's Death on Shoar.</l>
+               <l>(Man's fears need not <hi>paint</hi> pale) a <hi>Greenwich</hi>
+                  <note n="(b)" place="margin">
+                     <hi>The strange Fish taken near</hi> Greenwich <hi>in</hi> August <hi>last.</hi>
+                  </note>
+                  <hi>Gramp,</hi>
+               </l>
+               <l>
+                  <hi>Starts</hi> Conscience, as would the Doomesday damp;</l>
+               <l>When <hi>slimy</hi> Graves <hi>yawning, blend</hi> stench with Hell,</l>
+               <l>And no air breath'd but what's o'th Damned's <hi>yell.</hi>
+               </l>
+               <l>Fond Mortal, does thy Courage thus <hi>strike Sail,</hi>
+               </l>
+               <l>When this Star <hi>stroaks</hi> his <hi>Beard,</hi> that <hi>waggs</hi> his <hi>Tail,</hi>
+               </l>
+               <l>When Winds <hi>break Goal,</hi> or when there <hi>strays</hi> a Fish,</l>
+               <l>Prodigious only that it fits no Dish?</l>
+               <l>And dost not feel her die? Pretend to sence!</l>
+               <l>Yet think for to <hi>survive</hi> her influence?</l>
+               <l>Though Goodness groan as th'<hi>anguish'd</hi> entrails will</l>
+               <l>Of some amazed <hi>Thunder-cloven</hi> Hill:</l>
+               <l>Though Joy be <hi>ravish'd</hi> hence, and born on high</l>
+               <l>By th' <hi>Tempest</hi> of our Universal sigh:</l>
+               <l>Yet still dread <hi>Portents?</hi> when (worse than presage)</l>
+               <l>Her Death's the very <hi>ruine</hi> of the Age.</l>
+               <l>Thus distant <hi>Clouds</hi> of dust the Fort confound</l>
+               <l>With <hi>'Larum;</hi> while alas! from their own ground</l>
+               <pb n="8" facs="tcp:96199:5"/>
+               <l>Black <hi>Mines</hi> of <hi>Fate</hi> dispatch up all at once;</l>
+               <l>In a <hi>reversed show'r</hi> of Men and Stones;</l>
+               <l>And in such <hi>horrid hast,</hi> there's not alive</l>
+               <l>Knows whether Soul or Body first <hi>arrive.</hi>
+               </l>
+               <l>So our loss may (do but <hi>consult</hi> our tears)</l>
+               <l>
+                  <hi>Uncenter</hi> this Globe, and <hi>Dis-pole</hi> the Sphears:</l>
+               <l>For Nature finds <hi>dire</hi> horror <hi>force</hi> its way</l>
+               <l>Through all her <hi>Veins;</hi> and well <hi>kind</hi> Nature may:</l>
+               <l>Since <hi>Ghostly Bigots</hi> do with far less cause,</l>
+               <l>
+                  <hi>Raise</hi> the <hi>Militia</hi> of our SOV'RAIGN's Laws;</l>
+               <l>
+                  <hi>Troop</hi> up to <hi>Arms,</hi> the poenal Acts, march on,</l>
+               <l>
+                  <hi>Beleaguer</hi> CHARLES for <hi>Proclamation.</hi>
+               </l>
+               <l>Not those <hi>brave temper'd</hi> Souls, who judge it meet,</l>
+               <l>With our Great <hi>Rome-Confounding</hi> STILLINGFLEET,</l>
+               <l>To <hi>fortifie</hi> and guard <hi>expos'd Frontiers:</hi>
+               </l>
+               <l>But these, that <hi>must</hi> have <hi>Inland</hi>-Towns made <hi>fires;</hi>
+               </l>
+               <l>And rude, to <hi>gratifie</hi> their <hi>pride</hi> alone,</l>
+               <l>Expect our PRINCE should <hi>trudge</hi> and see it done.</l>
+               <l>
+                  <hi>Tempestuous</hi> BOREALE-WILD would call</l>
+               <l>Such BECKETS, yea the <hi>Kingdoms Funeral:</hi>
+               </l>
+               <l>And <hi>rail,</hi> as Curates do bestow fell knocks</l>
+               <l>On Nonconformists from the <hi>prating</hi> Box,</l>
+               <l>When <hi>Sall'ing</hi> from the <hi>Postern</hi> of some Text</l>
+               <l>These <hi>LEVITE</hi>
+                  <note n="(c)" place="margin">
+                     <hi>The</hi> Ve<g ref="char:EOLhyphen"/>netian <hi>General in</hi> Candia, <hi>so renowned for his frequent Sallies upon the Beleague<g ref="char:EOLhyphen"/>rers.</hi>
+                  </note>
+                  <hi>Montbruns</hi> bring them Pris'ners next.</l>
+               <l>But 'tis enough, our cause of <hi>grief</hi> in right</l>
+               <l>Is more, than their's of Vengeance and Spight.</l>
+               <l>Why, man, the times are <hi>broke, pack</hi> up, go try</l>
+               <l>How thou canst <hi>traffick</hi> with Eternity:</l>
+               <l>Or else <hi>convey</hi> thy self to <hi>brighter</hi> dayes;</l>
+               <l>
+                  <hi>Plant</hi> in some Cen'try <hi>gilded</hi> with like <hi>rayes,</hi>
+               </l>
+               <l>For she is <hi>Set,</hi> The <hi>puling</hi> light that <hi>streams</hi>
+               </l>
+               <l>Is but <hi>Refraction</hi> from her <hi>farewel</hi> beams.</l>
+               <l>Vertues <hi>resign'd</hi> their <hi>splendors,</hi> that our <hi>skie</hi>
+               </l>
+               <l>(Like <hi>CHAOS</hi>) turns to Terror, <hi>and we die.</hi>
+               </l>
+               <pb n="9" facs="tcp:96199:5"/>
+               <l>Ah Death! could I be thine; This only Verse</l>
+               <l>Should make's Immortal, and discharge the Herse.</l>
+               <l>Thou most <hi>unfathomable</hi> Sot, that cou'd</l>
+               <l>
+                  <hi>Gusle</hi> our Channel full of <hi>Brandy</hi> blood:</l>
+               <l>While Pests (to <hi>relish</hi> thy <hi>Carowse</hi>) on Shoar,</l>
+               <l>From wretched Mankind <hi>cater'd</hi> thousands more.</l>
+               <l>Thou that since sin produc'd thee, dost advance</l>
+               <l>Our Earth some Leagues 'bove its first Ordinance,</l>
+               <l>By humane dust turnd into <hi>Mounts</hi> and Hills,</l>
+               <l>That heavenly <hi>Bodies</hi> fall to <hi>making Wills;</hi>
+               </l>
+               <l>And parted Souls <hi>peep</hi> through th' <hi>invaded</hi> Skies,</l>
+               <l>Preparing their own <hi>final</hi> Elegies.</l>
+               <l>Could not all these sufficiently provide?</l>
+               <l>Not the past Woes, our War, our Plague, our <hi>H</hi>—</l>
+               <l>But thy vast <hi>Gorge,</hi> thine <hi>avaritious</hi> Maw</l>
+               <l>Devours what was our Gospel and our Law!</l>
+               <l>Must we then lose the Decalogue and Creed,</l>
+               <l>That thy base <hi>Pensionary</hi> Worms may feed?</l>
+               <l>Yet who'd not laugh? (were not t'<hi>intend</hi> a smile</l>
+               <l>Prophaness in the most corrected stile)</l>
+               <l>Expect <hi>Meales?</hi> when her Body was so <hi>wore</hi>
+               </l>
+               <l>And so <hi>extracted</hi> into <hi>Soul</hi> before,</l>
+               <l>E'en to <hi>translation;</hi> that we have in Urn</l>
+               <l>But bones for to secure <hi>us</hi> her return:</l>
+               <l>
+                  <hi>Us</hi> that must <hi>droop,</hi> at length we die, and then</l>
+               <l>Still <hi>droop,</hi> (according to Great <hi>ORIGEN</hi>)</l>
+               <l>'Till Charnels <hi>rattle,</hi> That dead as alive</l>
+               <l>From age to age <hi>successively</hi> we grieve.</l>
+               <l>Not as did deceas'd <hi>Cromwels</hi> Court of yore;</l>
+               <l>When <hi>Walls</hi> mourn'd, and the <hi>Drapers</hi> mourn'd much more.</l>
+               <l>But <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, at so true a rate</l>
+               <l>With <hi>Emphasis,</hi> Grief in its <hi>Zenith</hi> state.</l>
+               <pb n="10" facs="tcp:96199:6"/>
+               <l>As when
+<note n="(d)" place="margin">
+                     <hi>Bartho<g ref="char:EOLhyphen"/>lomew Tide,</hi> 1662.</note>
+                  <hi>expiring</hi> Sermons were aloud</l>
+               <l>Pronounc'd, to the <hi>no less expiring</hi> Crowd;</l>
+               <l>And the Divines took farewel of their ears</l>
+               <l>In a sad contest of discourse and tears;</l>
+               <l>We saw the <hi>distress'd</hi> People as they sate;</l>
+               <l>Lost in a <hi>silent Wilderness</hi> of fate:</l>
+               <l>Then (like unto the dreadful <hi>crack</hi> and <hi>moan</hi>
+               </l>
+               <l>Of the <hi>dissolving</hi> World) <hi>burst</hi> into groan:</l>
+               <l>That ECCHO <hi>trilling</hi> fled the <hi>Vaulted</hi> Isles,</l>
+               <l>Till <hi>woo'd</hi> by Organs, and such <hi>pious</hi> wiles:</l>
+               <l>Thus we <hi>lament</hi> without dispute or pause,</l>
+               <l>In a <hi>vast</hi> grief, next nothing but its cause;</l>
+               <l>A Grief, whose <hi>sighs commanded</hi> by our Love,</l>
+               <l>Might <hi>line</hi> with <hi>Sable</hi> all the <hi>Orbs</hi> above.</l>
+               <l>For she now <hi>glitt'ring</hi> in their <hi>Tissue</hi> rayes,</l>
+               <l>Our <hi>old</hi> distinction's <hi>lost</hi> of Nights and Dayes;</l>
+               <l>Nay, <hi>Twilight</hi> does <hi>attend</hi> her, that all's Night:</l>
+               <l>The Sun and's <hi>train</hi> have since but <hi>acted</hi> Light;</l>
+               <l>As though she were from the <hi>Empyrial</hi> Throne</l>
+               <l>Sent <hi>Hostage</hi> down, and now <hi>recall'd</hi> and gone.</l>
+               <l>Mortals concern'd, no less <hi>resign</hi> to fears,</l>
+               <l>Than should the last Trump's <hi>Thunder rend</hi> their ears:</l>
+               <l>For who shall live, if she must die? Or can</l>
+               <l>Hope <hi>saucily</hi> for piety in man?</l>
+               <l>She had (though parties <hi>hoord</hi> it in their nooks)</l>
+               <l>(Me thoughts) a <hi>lovely Heaven</hi> in her looks:</l>
+               <l>Such, 'twere compleatly (did ye all combine)</l>
+               <l>
+                  <hi>Salvation</hi> for you Painters, to <hi>design.</hi>
+               </l>
+               <l>Perfection <hi>dwindles,</hi> and subscribes her fame,</l>
+               <l>Your Colours then must <hi>crimson</hi> into shame:</l>
+               <l>Or else your <hi>Palats</hi> with Ambition high,</l>
+               <l>Will <hi>nauseate</hi> all but what's as pale as she.</l>
+               <l>She had true red and white, yea (what was more)</l>
+               <l>Her Soul <hi>spread</hi> and appeard through ev'ry pore.</l>
+               <pb n="11" facs="tcp:96199:6"/>
+               <l>Some certain <hi>unaccountable</hi> bright Ray</l>
+               <l>Render'd her face more <hi>Glorious</hi> than gay.</l>
+               <l>There modesty, and a <hi>Majestick</hi> Awe</l>
+               <l>
+                  <hi>Divided</hi> both their <hi>Empire</hi> and their Law;</l>
+               <l>There <hi>Native</hi> Worship did, as <hi>lewdest</hi> crimes,</l>
+               <l>Scorn the <hi>Fantastick Gywgawes</hi> of the times.</l>
+               <l>What though she <hi>thought</hi> our Publick Prayers are</l>
+               <l>Too <hi>Common</hi> to be either rich or rare:</l>
+               <l>That <hi>Ceremonies</hi> were by <hi>first intent,</hi>
+               </l>
+               <l>
+                  <hi>A-la-mode</hi> Temple, and Church-Complement;</l>
+               <l>To <hi>Humble-servant</hi> Heav'n, <hi>Madam</hi> the Moon,</l>
+               <l>I'th' Sacred <hi>Cringe</hi> of Cardinal PEROON.</l>
+               <l>Though bred when <hi>Young</hi> to <hi>Dance,</hi> it ill appears</l>
+               <l>Our Church should <hi>practise Steps</hi> at these grave years.</l>
+               <l>What though she <hi>thought</hi> this, &amp; much more, yet she</l>
+               <l>
+                  <hi>HONOUR'D</hi> her <hi>KING,</hi> not with <hi>hir'd</hi> Loyalty,</l>
+               <l>For <hi>devout</hi> thousands, or <hi>less holy</hi> Cents,</l>
+               <l>For <hi>Liege</hi> Ecclesiastick <hi>suffering</hi> Rents;</l>
+               <l>But with <hi>Religious awe,</hi> nay past controul</l>
+               <l>She knew so Good a Prince deserved her Soul.</l>
+               <l>That did our <hi>noise</hi> and <hi>dinne</hi> of <hi>CHURCH DIVINE,</hi>
+               </l>
+               <l>Prove but <hi>meer Alias</hi> for good Lease and Fine:</l>
+               <l>Or Excommunications found no worse,</l>
+               <l>Than tricks to <hi>chouse JACOBUS</hi> out o'th' Purse.</l>
+               <l>Yet was her Duty to her Prince <hi>sans</hi> strife</l>
+               <l>
+                  <hi>Entwisted</hi> closely with her Line of Life.</l>
+               <l>Though some <hi>grace</hi> Drunk'ness, praise, and <hi>set to sale</hi>
+               </l>
+               <l>The ILIADS of their Loyalty's in Ale;</l>
+               <l>
+                  <hi>Health</hi> all the Clergy, and to help that <hi>wing,</hi>
+               </l>
+               <l>
+                  <hi>Jade</hi> and <hi>spurgal,</hi> No BISHOP, and NO KING:</l>
+               <l>Her <hi>Conscience</hi> yet and <hi>'Legeance</hi> were the same</l>
+               <l>A <hi>Pyramid</hi> of one <hi>resined</hi> flame,</l>
+               <l>A serious dread: though some (with <hi>envious</hi> lie</l>
+               <l>And <hi>Non obstante</hi> to true Modesty)</l>
+               <pb n="12" facs="tcp:96199:7"/>
+               <l>
+                  <hi>Ingross</hi> all Faith; yet shall Parsons droll,</l>
+               <l>See them but <hi>TITH-PIGG'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> well, as much for <hi>Nol.</hi>
+               </l>
+               <l>The duties of both <hi>Tables</hi> were her <hi>Meals;</hi>
+               </l>
+               <l>The <hi>Crums</hi> (did Merits save) might feed whole Weals.</l>
+               <l>Church <hi>Indigent</hi> small <hi>Officers</hi> don't pray</l>
+               <l>More for their Christnings, <hi>Burials,</hi> Tithe or Pay,</l>
+               <l>Than she did for our CHARLES: <hi>Who may he so</hi>
+               </l>
+               <l>
+                  <hi>Live long as his Eternal Fame must do;</hi>
+               </l>
+               <l>
+                  <hi>Must do, while there shall last what Men call Days,</hi>
+               </l>
+               <l>
+                  <hi>Or Air to mold one syllable of Praise!</hi>
+               </l>
+               <l>In some, their Passions (like the savage Brood</l>
+               <l>Of <hi>Goths</hi> or <hi>Huns</hi>) <hi>invade,</hi> then <hi>waste</hi> their Blood,</l>
+               <l>And <hi>desolate</hi> their Looks; while flaming Ire</l>
+               <l>Shews in their Eyes the <hi>Countrey's left on Fire:</hi>
+               </l>
+               <l>Here they <hi>turn'd Reason,</hi> and could (though full bent)</l>
+               <l>
+                  <hi>Parl</hi> with their Objects, all in Argument</l>
+               <l>Of <hi>Privy Council</hi> to her Soul, but just,</l>
+               <l>In giving Senses <hi>Cinque-Ports</hi> to their Trust;</l>
+               <l>Who guarded them both against Storm and Price,</l>
+               <l>Both Force and Fraud: The <hi>City</hi>-Avarice,</l>
+               <l>
+                  <hi>Court</hi>-Luxury must at great distance ride,</l>
+               <l>With <hi>so-so</hi> Clergy's Laziness and Pride:</l>
+               <l>Her <hi>Passions</hi> could determine these to be</l>
+               <l>
+                  <hi>Absurd,</hi> as Method in an Elegy.</l>
+               <l>And though Vice <hi>strutted</hi> herein <hi>splendid</hi> Train,</l>
+               <l>She look'd <hi>down</hi> on it with an high disdain:</l>
+               <l>Like his, that doth a <hi>Silenc'd</hi> Preacher see,</l>
+               <l>From the TEN'RIFF-<hi>Pike</hi> of his Deanery.</l>
+               <l>Would you describe then Vertues all at once?</l>
+               <l>Pronounce her Name, as FRANCIS did his <hi>France.</hi>
+               </l>
+               <l>As DECENTLY IN ORDER's hal'd amain,</l>
+               <l>All <hi>sized</hi> Ceremonies to maintain.</l>
+               <l>And so may <hi>Soph,</hi> or such small ERGO <hi>Pun</hi>
+               </l>
+               <l>Prove <hi>North-west</hi> passage, the Philos'pher's Stone,</l>
+               <pb n="13" facs="tcp:96199:7"/>
+               <l>E'en what you please (Sir) be it Profe or Song,</l>
+               <l>So <hi>Statutes</hi> do but <hi>Jus Divine</hi> his Tongue.</l>
+               <l>Would you see <hi>Heathen</hi> Chief-Good <hi>Christned,</hi> and</l>
+               <l>Ethicks <hi>serve under</hi> Sacred Writ's command,</l>
+               <l>Their School-points justly now become our own,</l>
+               <l>Made <hi>Denizens</hi> in our Religion:</l>
+               <l>'Twas here, and ev'ry moral Virtue hence,</l>
+               <l>Chose a new <hi>Genus,</hi> and new Difference.</l>
+               <l>She found these humane <hi>Lustres</hi> had before</l>
+               <l>
+                  <hi>But twinkled</hi> in raw <hi>undigested</hi> Oar;</l>
+               <l>Dispers'd and <hi>branch'd</hi> in speculative Veins</l>
+               <l>Through all the SOUTHERN Schoolmen's <hi>Sun-burnt</hi> brains,</l>
+               <l>And therefore <hi>coyn'd</hi> them into practick pence,</l>
+               <l>Now <hi>currant</hi> through all <hi>Marts</hi> of Conscience.</l>
+               <l>She griev'd to think they should <hi>for Ages</hi> lie</l>
+               <l>
+                  <hi>Confin'd</hi> vvithin <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <hi>Employ'd</hi> to make for <hi>Schools,</hi> until of late,</l>
+               <l>Their Fire-vvorks, <hi>Squibs</hi> and <hi>Crackers</hi> for their prate;</l>
+               <l>To <hi>enhance</hi> Church-men, and keep <hi>Lay Souls</hi> lovv,</l>
+               <l>The fitter to be <hi>wheedled</hi> to the TOE.</l>
+               <l>These useful Notions, vve novv <hi>rescu'd</hi> see</l>
+               <l>From their <hi>irrefragable</hi> slavery;</l>
+               <l>And brought to CHRISTENDOM from all their fear,</l>
+               <l>Their <hi>Angellick, Seraphick,</hi> ALGIER.</l>
+               <l>She did <hi>design,</hi> (still her <hi>Example</hi> strives)</l>
+               <l>To <hi>vest</hi> these in their rights unto our lives;</l>
+               <l>To <hi>Discipline</hi> our <hi>Converse, work</hi> us that</l>
+               <l>Which <hi>Set-fac'd</hi> Monks made but Religious <hi>chat.</hi>
+               </l>
+               <l>Yet story tells us, that in Church and Schools</l>
+               <l>Reformers alvvayes vvere <hi>Recorded</hi> Fools.</l>
+               <l>No Treason <hi>Heir apparent</hi> to the Rope;</l>
+               <l>No <hi>Villany</hi> that ever lodg'd vvith Pope;</l>
+               <l>But Jesuites, yea the <hi>thin</hi> Priests layd on</l>
+               <l>Those of the AUGUSTAN CONFESSION:</l>
+               <pb n="14" facs="tcp:96199:8"/>
+               <l>So was <hi>their dawning</hi> overcast, and we</l>
+               <l>Observe the brave ROYAL SOCIETY</l>
+               <l>Run the same fate, for young <hi>pert Sophomoors</hi>
+               </l>
+               <l>
+                  <hi>Gown Hec's learnedly</hi> kick them out of doors:</l>
+               <l>And swagg'ring (each a System by his side)</l>
+               <l>
+                  <hi>Must up</hi> and on Great CHARLES the Founder ride.</l>
+               <l>Though their hearts dread, a Toleration may</l>
+               <l>
+                  <hi>Let Presb. loose</hi> 'mong those Livings where they <hi>prey.</hi>
+               </l>
+               <l>Yet 'las! these <hi>squabble</hi> not for Tithes, nor rage,</l>
+               <l>Nor <hi>Rival</hi> with them, for a Parsonage:</l>
+               <l>But the cause is, these saucily do keep</l>
+               <l>Discourse vvith Nature, and perplex their Sleep.</l>
+               <l>So vvhen she Moralls <hi>tun'd</hi> to Sacred Lyre,</l>
+               <l>The <hi>brisk</hi> Diocesan Shield-bearing Squire</l>
+               <l>
+                  <hi>Smells</hi> Faction: (vvhich by this time all men see</l>
+               <l>Is <hi>(Anglicè)</hi> She thinks not as do vve)</l>
+               <l>When <hi>training</hi> them to divine <hi>meen</hi> and grace,</l>
+               <l>She <hi>Aegypt's</hi> Learning <hi>dress'd</hi> in CANA'N's Phrase;</l>
+               <l>There (cryes this <hi>dapper</hi> Sancho) <hi>Croaks the Cant.</hi>
+               </l>
+               <l>Perhaps so too, nor vvill this <hi>Younker</hi> vvant;</l>
+               <l>Only her <hi>Accent</hi> might from Scripture <hi>stray</hi>
+               </l>
+               <l>Into the Talk, and <hi>Younkers</hi> from a Play.</l>
+               <l>For <hi>Common</hi> Sir <hi>Johns</hi> doff their Sacred geer,</l>
+               <l>(No shame to the spruce-vvitted COVENT <hi>Peer</hi>)</l>
+               <l>And <hi>steal</hi> on <hi>Saturdays ('TIS WEL KNOWN SINCE)</hi>
+               </l>
+               <l>To <hi>hire</hi> th' House <hi>Action</hi> for their Eighteen pence.</l>
+               <l>Does this <hi>Preach</hi> next of Vengeance and Death?</l>
+               <l>'Tis
+<note n="(e)" place="margin">An Actor.</note> BATTERTON in Pulpitacts
+<note n="(f)" place="margin">In the Tragedy so cal<g ref="char:EOLhyphen"/>led.</note> MACKBETH:</l>
+               <l>Or that vvith Arms a <hi>kembo, blustring</hi> look,</l>
+               <l>Damn Puritans, or <hi>laugh</hi> them dovvn by Book;</l>
+               <l>There's
+<note n="(g)" place="margin">An Actor.</note>
+                  <hi>Lacy</hi> vvith his
+<note n="(h)" place="margin">
+                     <hi>In the Co<g ref="char:EOLhyphen"/>medy called</hi> Bartholomew Fair, <hi>wherein the Puritan is rendred no less ridiculous, than the Au<g ref="char:EOLhyphen"/>thor profane.</hi>
+                  </note>
+                  <hi>Fair,</hi> and thus all day</l>
+               <l>We fools hear <hi>hector'd</hi> out a <hi>Sermon-Play.</hi>
+               </l>
+               <l>Alas! the APOSTLES <hi>Cant, SHAKESPEAR</hi> and <hi>BEN</hi>
+               </l>
+               <l>(hang Scripture Phrase!) vvere far more gallant men.</l>
+               <pb n="15" facs="tcp:96199:8"/>
+               <l>These are Conformities <hi>true marks;</hi> Let's moan,</l>
+               <l>Since <hi>Atheism creeps</hi> into preaching tone;</l>
+               <l>GOD's STILE grown <hi>base,</hi> that our Church-Doctors</l>
+               <l>He
+<note n="(i)" place="margin">
+                     <hi>The Con<g ref="char:EOLhyphen"/>tinuation of the Friendly Debate,</hi> p. 1.</note>
+                  <hi>Nonconforms,</hi> who <hi>thorough mercy's well.</hi>
+               </l>
+               <l>But <hi>SHE</hi> is dead; 'twere better they went hence</l>
+               <l>
+                  <hi>Conforming</hi> in their <hi>modern</hi> COVENT sense.</l>
+               <l>For say the Poor, <hi>Mean</hi> Alms from a Divine</l>
+               <l>That <hi>girdles</hi> vvhile there's <hi>extant</hi> Wench or Wine.</l>
+               <l>Though some there be good, as the best <hi>Cloak</hi> Sect,</l>
+               <l>Yet still the <hi>rouzed</hi> Kingdom will suspect,</l>
+               <l>Their intrest's that of <hi>Coyn;</hi> their Churches fears</l>
+               <l>Of Schism to be, <hi>no purchase for their Heirs;</hi>
+               </l>
+               <l>No vvonder then the Poor (that <hi>forlorn</hi> drove)</l>
+               <l>Who <hi>reap'd</hi> a constant <hi>Harvest</hi> from her Love,</l>
+               <l>In <hi>Uproars</hi> should with <hi>Curse-surrounding</hi> Cryes</l>
+               <l>
+                  <hi>Impeach</hi> grim <hi>Death,</hi> and <hi>damn</hi> the <hi>Destinies.</hi>
+               </l>
+               <l>That <hi>Coward</hi> Death! vvho dares not yet advance,</l>
+               <l>As by <hi>foft force</hi> of a well-manag'd glance</l>
+               <l>Loves Boy does, (who <hi>attacques</hi> us in our prime,</l>
+               <l>I'th' <hi>rage</hi> and fury of our valiant time:</l>
+               <l>When <hi>man'd</hi> vvith Spirits from our hearts and brains,</l>
+               <l>And <hi>liquid Aetna's</hi> trenching round our veins)</l>
+               <l>But <hi>sneaks</hi> till Age have <hi>worm'd</hi> a breach, and then</l>
+               <l>The Villain <hi>wriggles</hi> into th' lives of men:</l>
+               <l>Else shall he <hi>lurking</hi> spy, vvhen some dire Sin,</l>
+               <l>Or <hi>Traitor Humour</hi> shall invite him in.</l>
+               <l>Well Death, I know thoul't be reveng'd on me,</l>
+               <l>And to thy Trophies add this <hi>Elegie.</hi>
+               </l>
+               <l>Blast then my <hi>blooming</hi> youth, and with <hi>pale</hi> hate</l>
+               <l>Remit me to the Earth, my <hi>ancient</hi> state.</l>
+               <l>Yet if the more Ingenuous <hi>L'ESTRANGE,</hi>
+               </l>
+               <l>Who seiz'd Books, but gave's own News in <hi>Exchanges,</hi>
+               </l>
+               <l>Shall <hi>counterwork</hi> thy Spite, this <hi>Threnick</hi> may</l>
+               <l>Pursue thee to thine own <hi>Hic Jacet</hi> Day.</l>
+               <pb n="16" facs="tcp:96199:9"/>
+               <l>If to the Printing Ink he grant in brief,</l>
+               <l>Of this sad Paper, but a <hi>Term of life,</hi>
+               </l>
+               <l>It may tell <hi>Time's rear,</hi> how thine Hour-glass stands,</l>
+               <l>Fill'd up vvith <hi>Wrongs,</hi> in number like its Sands.</l>
+               <l>Are thy late <hi>Conquests setled,</hi> vvithout fear</l>
+               <l>A Resurrection make impressions there?</l>
+               <l>That in a bounding fierce carreer for more,</l>
+               <l>Thou blockst up (as <hi>dependencies</hi>) the Poor;</l>
+               <l>Who must fall in, as vvould (if <hi>Candia</hi> fails)</l>
+               <l>Th' <hi>Aegean-galaxy,</hi> those seeds of Isles.</l>
+               <l>My <hi>Country Hills</hi> Heav'n-reard for stately Scenes,</l>
+               <l>And Landmarks to each <hi>Houses</hi> vast Demeans;</l>
+               <l>Ye that delight, <hi>shaking your Clouds,</hi> to bow,</l>
+               <l>And view Fields, <hi>scramble</hi> for the drops below,</l>
+               <l>
+                  <hi>Ye saw, ye saw</hi> this deed, and so stood by,</l>
+               <l>As if with Death, of the <hi>Conspiracy.</hi>
+               </l>
+               <l>Though <hi>China</hi> vvorship Hills, thought ye therefore</l>
+               <l>(She dead) vve should your <hi>Highnesses</hi> adore?</l>
+               <l>Ye that vvere <hi>PROTESTANTS</hi> (Record assures)</l>
+               <l>Ere ever <hi>Austin</hi> saw and murder'd yours,</l>
+               <l>Hate this <hi>Doulia</hi>-cheat; Twas then to be</l>
+               <l>
+                  <hi>Sharers</hi> vvith Heav'n in her Society:</l>
+               <l>Else ye, vvhom Nature plac'd to interpose</l>
+               <l>Twixt us, our <hi>Roman</hi> and our <hi>Saxon</hi> soes,</l>
+               <l>To keep us <hi>BRITAINS</hi> still unconquer'd so</l>
+               <l>As is our <hi>Tongue,</hi> had <hi>screen'd</hi> us from this <hi>Wo.</hi>
+               </l>
+               <l>No more, <hi>dear Hills,</hi> The <hi>Criticks</hi> swear in Town</l>
+               <l>We Welchmen do as <hi>slily</hi> praise our own;</l>
+               <l>As oft they hear some <hi>Scoundrel</hi> Priestly Elves</l>
+               <l>Extol the <hi>Mother-Church,</hi> but mean <hi>themselves.</hi>
+               </l>
+               <l>'Tis <hi>Chymick WO, extracted Fate,</hi> the dread</l>
+               <l>Of Nature, <hi>Horror</hi> full <hi>embodyed:</hi>
+               </l>
+               <l>For here Death in a Sea-sight-fury so</l>
+               <l>
+                  <hi>Contracts</hi> his Arm, as for one final blow:</l>
+               <pb n="17" facs="tcp:96199:9"/>
+               <l>That <hi>notice</hi> from the World's <hi>divining</hi> Soul</l>
+               <l>(Like missive ruine) pierces through the Whole;</l>
+               <l>And vve so tremble, as the Wrath and Rage</l>
+               <l>Of all Times were consign'd o're to this Age.</l>
+               <l>The present Loss by vvhich this <hi>WO</hi> doth <hi>track</hi>
+               </l>
+               <l>Our Beings, <hi>checquers</hi> all our Joys with <hi>Black;</hi>
+               </l>
+               <l>And <hi>spurns</hi> down Mirth, as
+<note n="*" place="margin">Mr. <hi>Pr.</hi>
+                  </note>
+                  <hi>old Crop</hi> kicks each State,</l>
+               <l>Or our new
+<note n="†" place="bottom">Dr. <hi>Pa.</hi>
+                  </note>
+                  <hi>Friendly</hi> Master of
+<list>
+                     <item>
+                        <hi>De— bate.</hi>
+                     </item>
+                     <item>
+                        <hi>Make bate.</hi>
+                     </item>
+                  </list>
+               </l>
+               <l>That <hi>Kirker</hi> (now turn'd Wit) see the Fates <hi>smile,</hi>
+               </l>
+               <l>Still <hi>'frights</hi> the Peace and <hi>Genius</hi> of this Isle.</l>
+               <l>He <hi>bustling</hi> (that we think's Conversion true)</l>
+               <l>
+                  <hi>O're-acts</hi> his Part, <hi>Anticipates</hi> his <hi>Cue;</hi>
+               </l>
+               <l>Nay, fall's to's <hi>Boutfeau</hi> Game, to <hi>vex</hi> our Weal;</l>
+               <l>And in his former <hi>good old causing</hi> Zeal,</l>
+               <l>Would <hi>slip</hi> our Parliament, <hi>unhood</hi> our Court,</l>
+               <l>To raise himself some <hi>Persecuting Sport:</hi>
+               </l>
+               <l>Yea, fits his <hi>Lines,</hi> as near as Papist can</l>
+               <l>For the FRENCH HUGONOT <hi>Meridian.</hi>
+               </l>
+               <l>
+                  <hi>Ensure</hi> him but his
+<note n="(k)" place="margin">
+                     <hi>To be</hi> A. B. C.</note>
+                  <hi>Lambeth hopes,</hi> and then</l>
+               <l>He'l <hi>blow</hi> the <hi>dying Embers</hi> once agen.</l>
+               <l>He rails <hi>by Craft</hi> at Government, because</l>
+               <l>His <hi>Phaetontick</hi> pride <hi>reins</hi> not the Laws;</l>
+               <l>That by the Flame he'd make, might but be shown</l>
+               <l>
+                  <hi>(Good lack!)</hi> that Mighty Reason of his own:</l>
+               <l>Which does vvith the <hi>Art Mimick</hi> of our Stage,</l>
+               <l>Give three Disputes their <hi>Exits</hi> in one page.</l>
+               <l>What can't Imperious <hi>Ipse dixit</hi> do,</l>
+               <l>When't <hi>apes</hi> Creation phrase, <hi>LET IT BE SO?</hi>
+               </l>
+               <l>He <hi>blows</hi> a <hi>Blast,</hi> th'Assembly
+<note n="(l)" place="margin">The Pres<g ref="char:EOLhyphen"/>byterians.</note> falls; He <hi>writes,</hi>
+               </l>
+               <l>Down goes the
+<note n="(m)" place="margin">The In<g ref="char:EOLhyphen"/>dependants.</note>
+                  <hi>Savoy,</hi> &amp; out all the
+<note n="(n)" place="margin">The Se<g ref="char:EOLhyphen"/>ctaries.</note>
+                  <hi>Lights.</hi>
+               </l>
+               <l>Had's Pen but <hi>skirmish'd</hi> Visier and Bashaws,</l>
+               <l>
+                  <hi>BEAVFORT</hi> might have <hi>surviv'd</hi> the <hi>CRE<g ref="char:EOLhyphen"/>TAN</hi> Cause.</l>
+               <pb n="18" facs="tcp:96199:10"/>
+               <l>He
+<note n="(o)" place="margin">A Law<g ref="char:EOLhyphen"/>tearm for murdering ones self.</note>
+                  <hi>felo dese's</hi> his poor <hi>bafled</hi> Friend,</l>
+               <l>(Foul <hi>Church-play</hi> from
+<note n="(p)" place="margin">
+                     <hi>The Friendly De<g ref="char:EOLhyphen"/>bate, p.</hi> 1.</note>
+                  <hi>Good morrow</hi> to the end)</l>
+               <l>Who <hi>pinion'd,</hi> runs the <hi>Gantlet</hi> (it is fear'd)</l>
+               <l>Through <hi>tatterd</hi> bands of Arguments <hi>cashierd;</hi>
+               </l>
+               <l>
+                  <hi>Straglers</hi> through <hi>musty</hi> Books, like STATUTE ROGUES,</l>
+               <l>Till <hi>quarterd</hi> in his pretty Dialogues.</l>
+               <l>Ye <hi>duller Levites,</hi> if his Plot but hit,</l>
+               <l>He'l find you all vvith neat
+<note n="(q)" place="margin">Covent-Garden.</note>
+                  <hi>Piazza</hi> Wit.</l>
+               <l>Is
+<note n="(r)" place="margin">The old plea for Dio<g ref="char:EOLhyphen"/>cesan Episco<g ref="char:EOLhyphen"/>pacy, but of late aban<g ref="char:EOLhyphen"/>doned.</note>
+                  <hi>Jus Divinum</hi> cow'd, and cannot win?</l>
+               <l>Here are <hi>stout</hi> Calumnies, then throw them in.</l>
+               <l>Does <hi>paltry</hi> Reason tire? Here's <hi>Droll</hi> that can</l>
+               <l>With <hi>Jaw-bone</hi> service <hi>hip and thigh</hi> the <hi>Fan.</hi>
+               </l>
+               <l>What <hi>Horn'd</hi> Dilemma's <hi>(those Rams)</hi> could not storm,</l>
+               <l>This Engine of the <hi>Atheists</hi> must perform.</l>
+               <l>What though the <hi>Publican Collectors</hi> say,</l>
+               <l>These better do the KING's TAX LAWS obey,</l>
+               <l>Than does our <hi>Magpie</hi> tribe; yet make them smoak</l>
+               <l>With other ACTS, or <hi>Pocket-pistol</hi> Joak.</l>
+               <l>
+                  <hi>Teiz</hi> the <hi>Church-Ecchoes hoarse;</hi> then to your wish,</l>
+               <l>
+                  <hi>Tow'r</hi> and speak <hi>Delphos</hi> o're an Alehouse dish.</l>
+               <l>But (now I think on't) th' Heroe may in's next</l>
+               <l>(For I have seen him <hi>combat</hi> vvith his Text)</l>
+               <l>
+                  <hi>Beat</hi> up thy <hi>Quarters,</hi> Muse, with <hi>Learned</hi> Wit,</l>
+               <l>And <hi>Noncon.</hi> press'd up for what he thinks fit;</l>
+               <l>
+                  <hi>Retreat</hi> then <hi>timely,</hi> for thou art but one</l>
+               <l>To <hi>Him,</hi> his <hi>Minister,</hi> and his <hi>Noncon.</hi>
+               </l>
+               <l>But his <hi>DEBATE</hi> injures no less my <hi>Rhime</hi>
+               </l>
+               <l>Than all, since here <hi>Digressions</hi> turn to Crime.</l>
+               <l>'Twere <hi>Sacriledge</hi> t'<hi>embezel</hi> from this theme</l>
+               <l>The meanest <hi>thought,</hi> though <hi>napping</hi> towards <hi>dream;</hi>
+               </l>
+               <l>Were I not bound to intercept, when some</l>
+               <l>Would <hi>dog</hi> her very Soul beyond the tomb:</l>
+               <pb n="19" facs="tcp:96199:10"/>
+               <l>That <hi>Soul</hi> vvhich <hi>scorn'd</hi> these <hi>finnical</hi> Divines</l>
+               <l>Should make CHARLES <hi>tug</hi> at th'oars of their designs.</l>
+               <l>They <hi>panting, club</hi> their Reasons all at once,</l>
+               <l>For the <hi>quick service</hi> of the Churches <hi>Dons:</hi>
+               </l>
+               <l>Who treat the <hi>Topicks,</hi> and a Guard must raise,</l>
+               <l>While these <hi>pert</hi> Masters do <hi>contribute</hi> phrase.</l>
+               <l>Then the <hi>van-currier</hi> Treatise flies abroad,</l>
+               <l>To meet our PARLIAMENT upon the Road:</l>
+               <l>Out thus the Book <hi>struts,</hi> teem'd in <hi>anxious</hi> pains,</l>
+               <l>By a <hi>Cabal</hi> of far more heads than brains.</l>
+               <l>Then my Lord's Chaplains play for Votes <hi>bo-peep;</hi>
+               </l>
+               <l>(So they have <hi>Pigs,</hi> the Devil take the <hi>Sheep</hi>)</l>
+               <l>How do they <hi>sputter!</hi> How these JEHU's drive,</l>
+               <l>To keep their <hi>whooted crazie</hi> cause alive!</l>
+               <l>
+                  <hi>To and again,</hi> as by a Jury cast,</l>
+               <l>They tumble in a <hi>Lord-have-mercy</hi>-hast,</l>
+               <l>And <hi>ring</hi> out Disobedience: though we saw</l>
+               <l>They little mind it in their Suits at Law;</l>
+               <l>Yet basely <hi>cokes</hi> into their sole intent</l>
+               <l>Those terms of LOYALTY and GOVERNMENT.</l>
+               <l>That Gen'rous Soul! she griev'd they should <hi>pel-mel</hi>
+               </l>
+               <l>Impiously <hi>sacrifice</hi> three Kingdoms Weal</l>
+               <l>To Popery's <hi>grim Manes</hi> vvithout end;</l>
+               <l>(For CHURCHMENS Pride vvill never <hi>condescend</hi>)</l>
+               <l>Since in appearance, by their <hi>baughty prate,</hi>
+               </l>
+               <l>The Church makes a meer <hi>Cully</hi> of the State.</l>
+               <l>She <hi>clos'd</hi> vvith practice then, yet <hi>smil'd</hi> to see</l>
+               <l>These <hi>Grandees hover</hi> in the Theorie:</l>
+               <l>
+                  <hi>Tampring</hi> with <hi>bloody</hi> notions, yea outright</l>
+               <l>
+                  <hi>Court</hi> for <hi>Auxiliary</hi> the Jesuite;</l>
+               <l>And all this, (if vve may believe the Town)</l>
+               <l>To <hi>shoar up,</hi> not <hi>RELIGION,</hi> but <hi>their Own.</hi>
+               </l>
+               <l>She <hi>retir'd</hi> therefore, lest their LORDLY Cause,</l>
+               <l>Though <hi>ill train'd,</hi> might be <hi>curassier'd</hi> in Laws;</l>
+               <pb n="20" facs="tcp:96199:11"/>
+               <l>And <hi>practis'd Piety</hi> in that short space,</l>
+               <l>As though t'<hi>atone</hi> Wrath for all Humane Race;</l>
+               <l>As though her Works <hi>Effluviums</hi> were to be</l>
+               <l>From the great <hi>Body</hi> of THEOLOGIE;</l>
+               <l>That her Example <hi>uncontrouled</hi> stands,</l>
+               <l>As the best <hi>Gloss</hi> on the Divine Commands.</l>
+               <l>We Preaching <hi>swap</hi> for Language, (yet perforce
+<note n="†" place="bottom">The Ro<g ref="char:EOLhyphen"/>mance so cal<g ref="char:EOLhyphen"/>led.</note> CASSANDRA has ten times more neat discourse:</l>
+               <l>One Scene of DRYDEN <hi>springs</hi> more noble fire,</l>
+               <l>Than all our <hi>Antinoncon quibling</hi> ire.)</l>
+               <l>Or, 'tis <hi>distinction'd</hi> out in <hi>graver</hi> whine,</l>
+               <l>The mixt <hi>Purl</hi>-Liquor <hi>Thomas</hi> did <hi>Aq-uine,</hi>
+               </l>
+               <l>When's <hi>barret'ring</hi> huge ENS RATIONIS-Sconce</l>
+               <l>Made GUELPHS and GIBELLINES of <hi>Pro's</hi> and <hi>Cons.</hi>
+               </l>
+               <l>Our <hi>Harrangues</hi> do from
+<note n="(t)" place="margin">Romance phrase.</note>
+                  <hi>deep Resentment</hi> rise,</l>
+               <l>Or they
+<note n="(u)" place="margin">School<g ref="char:EOLhyphen"/>terms.</note>
+                  <hi>formaliter</hi> are otherwise.</l>
+               <l>Her Life was no <hi>Cue-Preachment,</hi> but might be</l>
+               <l>
+                  <hi>Quoted</hi> for practical Divinitie.</l>
+               <l>It lay not in <hi>terse</hi> words, the <hi>semi-hug,</hi>
+               </l>
+               <l>The <hi>manag'd</hi> head,
+<note n="(w)" place="margin">The Pulpit mode of some few pert, crowing witted, clinch Preachmen among the Junior Ma<g ref="char:EOLhyphen"/>sters.</note> St. <hi>MARYs shoulder shrug;</hi>
+               </l>
+               <l>Nor in young <hi>Presb's</hi> Neck-Handkercher; nor well</l>
+               <l>I'th' <hi>Yaun devout</hi> and <hi>Gape</hi> of Doctor <hi>F</hi>—</l>
+               <l>But such as <hi>vig'rously</hi> was faith and deed,</l>
+               <l>A certain Orthodox sound practick Creed.</l>
+               <l>Her Actions (now <hi>enshrined</hi>) vvere so fair,</l>
+               <l>They did e'en <hi>proselite</hi> the ambient Air.</l>
+               <l>The furious Rabble wish their Hull and Sail</l>
+               <l>Might off into the <hi>Depths</hi> with the same <hi>Gale.</hi>
+               </l>
+               <l>Yea they vvho <hi>Priest-inspir'd</hi> lay for offence</l>
+               <l>In <hi>ambush</hi> to <hi>snap</hi> up her Conscience,</l>
+               <l>All vote <hi>Her GOOD,</hi> vvho doubtless took no joy</l>
+               <l>To see them <hi>damn'd</hi> to such a bad employ:</l>
+               <l>To <hi>shark</hi> their living from Man's <hi>Blood</hi> (God wot)</l>
+               <l>While <hi>sober</hi> Prayers must clear their <hi>drunken</hi> Shot.</l>
+               <pb n="21" facs="tcp:96199:11"/>
+               <l>Because on this condition Parson <hi>W</hi>—</l>
+               <l>
+                  <hi>Dischalk'd</hi> their ancient Leigier Reckoning.</l>
+               <l>Yet she forgave their <hi>Process upon tales;</hi>
+               </l>
+               <l>From which hot-headed <hi>freak</hi> God keep our <hi>Wales.</hi>
+               </l>
+               <l>Those her <hi>Remains,</hi> that in the Grave are found,</l>
+               <l>Beyond all Canons <hi>consecrate</hi> the Ground:</l>
+               <l>As <hi>Porter-Angels,</hi> vvho o're Sea and Strand</l>
+               <l>
+                  <hi>Loretto</hi> back'd, had brought's the <hi>Holy-Land.</hi>
+               </l>
+               <l>Her Soul's dispos'd above all sighs and tears,</l>
+               <l>Tow'rds the <hi>rebuilding</hi> of the ruin'd Sphears;</l>
+               <l>Those <hi>Constellations</hi> to <hi>repair</hi> in haste,</l>
+               <l>Where the late <hi>Blazing-Stars</hi> committed waste:</l>
+               <l>Or being <hi>active,</hi> 'tis <hi>promoted</hi> hence,</l>
+               <l>For to succeed some <hi>tir'd Intelligence:</hi>
+               </l>
+               <l>That still th'Orbs to their tunes may <hi>dance</hi> in Chores,</l>
+               <l>
+                  <hi>Around, Around</hi> this <hi>hollow</hi> Globe of ours.</l>
+               <l>But <hi>Seas</hi> have <hi>straits,</hi> and must to these <hi>conform,</hi>
+               </l>
+               <l>No less than to the <hi>Hectorism</hi> of Storm:</l>
+               <l>Ev'n so have vve, or vvee'd erect and raise</l>
+               <l>Large <hi>Institutes</hi> on her <hi>et caetera's;</hi>
+               </l>
+               <l>And praise, as do the <hi>Set</hi> of men in <hi>black,</hi>
+               </l>
+               <l>
+                  <hi>Ply</hi> Patrons vvith <hi>Eternity</hi> of <hi>clack.</hi>
+               </l>
+               <l>The <hi>Shoar</hi> and <hi>Ne plus</hi> to this doleful Song,</l>
+               <l>Is that I dare not trust our false-grown tongue;</l>
+               <l>Not poor, but <hi>base,</hi> it such deceits affords,</l>
+               <l>That words <hi>cheat</hi> sense, and Letters <hi>cheat</hi> them words:</l>
+               <l>It changes, fawns, <hi>turns coat,</hi> all in a trice,</l>
+               <l>As though 'twere <hi>nibling</hi> at a <hi>Benefice.</hi>
+               </l>
+               <l>Not a
+<note n="(x)" place="margin">No Fury like a merce<g ref="char:EOLhyphen"/>nary Rene<g ref="char:EOLhyphen"/>gado.</note>
+                  <hi>malicious cavilling</hi> of late,</l>
+               <l>But Church-men call (forsooth) <hi>FRIENDLY DE<g ref="char:EOLhyphen"/>BATE.</hi>
+               </l>
+               <l>A <hi>here and there I have thee;</hi> Thus the Priest</l>
+               <l>Text <hi>huffing-big,</hi> cry'd <hi>Bellarmine thou ly'st.</hi>
+               </l>
+               <l>Thus, in our Laws vvith <hi>fierce</hi> and <hi>doughty</hi> stroaks,</l>
+               <l>Our <hi>John a Styles</hi> runs down their <hi>John a Noaks:</hi>
+               </l>
+               <pb n="22" facs="tcp:96199:12"/>
+               <l>For 'tis <hi>decreed</hi> in high <hi>Romantick</hi> rage,</l>
+               <l>Our Knight <hi>fell</hi> Gyants, though in's <hi>PILGRI<g ref="char:EOLhyphen"/>MAGE.</hi>
+               </l>
+               <l>Well, since our very Language haps to be</l>
+               <l>
+                  <hi>Debauch'd</hi> and <hi>Rogu'd</hi> by Pulpit-<hi>Errantry;</hi>
+               </l>
+               <l>And <hi>ENGLISH</hi> turns to <hi>Sin,</hi> (Blest Soul) 'tis time</l>
+               <l>For thee to <hi>part,</hi> and me to <hi>end</hi> this Rhime.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>The Epitaph.</head>
+            <lg>
+               <l>HEre lies her <hi>Dust,</hi> that breathing did contein</l>
+               <l>
+                  <hi>True</hi> Goodness, more than Interest can <hi>feign.</hi>
+               </l>
+               <l>What her Parts were, her <hi>Graces</hi> vvho not knows,</l>
+               <l>Our <hi>Verse</hi> refers him to her Neighbours <hi>Prose:</hi>
+               </l>
+               <l>Which (like Fame) <hi>flutters</hi> round this Tomb, &amp; sayes</l>
+               <l>They'l dyet all their Children vvith her praise:</l>
+               <l>That after-ages shall no less enquire</l>
+               <l>Who's here, than for the <hi>source</hi> of <hi>Londons</hi> Fire.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:96199:12"/>
+            <head>ERRATA.</head>
+            <list>
+               <item>PAg. 4. line 2. read, <hi>The Poet's.</hi> lin. 6. r. <hi>In frolicks.</hi>
+               </item>
+               <item>P. 5. line last save two, r. STAGYRITE.</item>
+               <item>P. 6. l. 5. Put a Comma after <hi>these.</hi>
+               </item>
+               <item>P. 7. l. 3. Dele Comma after <hi>Waves.</hi>
+               </item>
+               <item>P. 8. l. 11. Dele Comma after <hi>Arms.</hi> lin. 20. put a Comma after <hi>such.</hi>
+               </item>
+               <item>P. 10. l. 19. r. <hi>Empyreal.</hi>
+               </item>
+               <item>P. 12. l. 1. r. <hi>shall these Parsons.</hi> l. 16. A Semicolon after <hi>Ar<g ref="char:EOLhyphen"/>gument.</hi> l. 18. An Apostropha over <hi>s</hi> in <hi>Sense's.</hi>
+               </item>
+               <item>P. 14. l. 25. r. <hi>('Tis well-known Sence)</hi> l. 30 Interrog. point after <hi>Book?</hi>
+               </item>
+               <item>P. 16. l. 12. An Apostropha over <hi>s</hi> in <hi>House's.</hi> l. 25. put a Comma after <hi>still.</hi>
+               </item>
+               <item>P. 19. l. 19. r. <hi>cokes in to.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
